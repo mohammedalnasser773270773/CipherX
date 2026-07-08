@@ -77,6 +77,14 @@ The application combines cybersecurity principles with modern Flutter developmen
 
 ---
 
+## Photos
+
+<p align="center">
+<img src="screenshots/photos.png" width="280">
+</p>
+
+---
+
 ## Import Images
 
 <p align="center">
